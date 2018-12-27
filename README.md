@@ -1,2 +1,2 @@
 # Spicy
-Spicy stuff
+## Spicy stuff
